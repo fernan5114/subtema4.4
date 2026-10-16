@@ -64,6 +64,7 @@ def main():
             eliminar(mascotaaborrar)
         elif opcion==4:
            Ordenar()
+           mostrar()
         elif opcion==5:
             print("saliendo...")
         else: print("opcion invalida")
